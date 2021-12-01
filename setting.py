@@ -1,14 +1,4 @@
-###########################################################################
-# TEAM   : ZEE K WORLD,MR.RISKY,WANSXGANS,        			  #
-# SOSIAL : 								  #
-# - Facebook : https://m.facebook.com/XUKKUGAANDO				  #
-# - WhatsApp : https://wa.me/+923477968938				  #
-# - TeleGram : 6283143565470       					  #
-# - Github   : https://github.com/AbdullahDada420 				  #
-# INFO   :								  #
-# - Hallo Raja Recoder Boleh Edit Tapi Jangan Berlebihan Oke...           #
-# - Script Jangan DiPerjual Belikan :( Karena Anda Noob Kentod            #
-###########################################################################
+
 me = ("IHSANULLAH")
 no_me = ("994401850814")
 email_me = ("santuyaja019@gmail.com")
@@ -244,29 +234,29 @@ except:
 def logo():
 	banner()
 def banner():
-	logo_v2=(f"""
+	logo_v2=(f"""{c}
 O))      O))  O)) O)        O)       O)))     O))
  O))   O))  O))    O))     O) ))     O) O))   O))
-  O)) O))    O))          O)  O))    O)) O))  O))
-    O))        O))       O))   O))   O))  O)) O))
-  O)) O))         O))   O)))))) O))  O))   O) O))
+  {u}O)) O))    O))          O)  O))    O)) O))  O))
+    {c}O))        O))       O))   O))   O))  O)) O))
+  {u}O)) O))         O))   O)))))) O))  O))   O) O))
  O))   O))  O))    O)) O))       O)) O))    O) ))
 O))      O))  O)) O)  O))         O))O))      O))
-{bulat}Author   : {i}{me}
-{bulat}Whatsapp : {i}{no_me}
-{bulat}Facebook : {i}Mr I H S A N
+{bulat}Author   : {u}{me}
+{bulat}Whatsapp : {u}{no_me}
+{bulat}Facebook : {u}Mr I H S A N
 {bulat}Your IP  : {i}{ipx}""")
-	logo_v1=(f"""
+	logo_v1=(f"""{c}
 O))      O))  O)) O)        O)       O)))     O))
  O))   O))  O))    O))     O) ))     O) O))   O))
-  O)) O))    O))          O)  O))    O)) O))  O))
-    O))        O))       O))   O))   O))  O)) O))
-  O)) O))         O))   O)))))) O))  O))   O) O))
+  {U}O)) O))    O))          O)  O))    O)) O))  O))
+    {u}O))        O))       O))   O))   O))  O)) O))
+  {c}O)) O))         O))   O)))))) O))  O))   O) O))
  O))   O))  O))    O)) O))       O)) O))    O) ))
 O))      O))  O)) O)  O))         O))O))      O))                                                                                           
-{bulat}Author   : {i}{me}
-{bulat}Whatsapp : {i}{no_me}
-{bulat}Facebook : {i}Mr I H S A N
+{bulat}Author   : {u}{me}
+{bulat}Whatsapp : {u}{no_me}
+{bulat}Facebook : {u}Mr I H S A N
 {bulat}Your IP  : {i}{ipx}""")
 	rizky = ([logo_v1, logo_v2])
 	ganteng = pilih(rizky)
@@ -315,9 +305,9 @@ O))      O))  O)) O)  O))         O))O))      O))
 	print(dmi_1)
 
 def logo_exp():
-	dmi_2 = (f"""{c} _______ _     _  _____  _____  ______ _______ ______ \n |______  \___/  |_____]   |   |_____/ |______ |     \ \n |______ _/   \_ |       __|__ |    \_ |______ |_____/
+	dmi_2 = (f"""{u} _______ _     _  _____  _____  ______ _______ ______ \n |______  \___/  |_____]   |   |_____/ |______ |     \ \n |______ _/   \_ |       __|__ |    \_ |______ |_____/
  {war}Maaf Script Ini Sudah Expired Silahkan Hubungi Admin !!
- {war}Whatsapp : {k}{no_me}
- {war}Facebook : {k}{facebook_me}""")
+ {war}Whatsapp : {c}{no_me}
+ {war}Facebook : {c}{facebook_me}""")
 	print(dmi_2)
 ####   Hai anak recoder :)
